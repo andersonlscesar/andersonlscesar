@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Sou Anderson César, Estudante de Análise e desenvolvimento de Sistemas!
+## I'm Anderson César, Systems Analysis and Development Student!
 <div align="center">
   <a href="https://github.com/andersonlscesar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonlscesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
